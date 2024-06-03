@@ -151,9 +151,9 @@ const char* htmlHomePage PROGMEM = R"HTMLHOMEPAGE(
         <td></td>
       </tr>
       <tr>
-        <td class="button" ontouchstart='sendButtonInput("MoveCar","3")' ontouchend='sendButtonInput("MoveCar","0")'><span class="flechas" >&#8678;</span></td>
+        <td class="button" ontouchstart='sendButtonInput("MoveCar","4")' ontouchend='sendButtonInput("MoveCar","0")'><span class="flechas" >&#8678;</span></td>
         <td class="button"></td>    
-        <td class="button" ontouchstart='sendButtonInput("MoveCar","4")' ontouchend='sendButtonInput("MoveCar","0")'><span class="flechas" >&#8680;</span></td>
+        <td class="button" ontouchstart='sendButtonInput("MoveCar","3")' ontouchend='sendButtonInput("MoveCar","0")'><span class="flechas" >&#8680;</span></td>
       </tr>
       <tr>
         <td></td>
